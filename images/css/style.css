@@ -12,7 +12,7 @@
     padding: 0px 70px;
     padding-top: 40px;
     position: absolute;
-    background-image: url("../Rectangle 15.svg");
+    background-image: url(/images/Rectangle\ 15.svg);
 }
 .logo{
 /* gol-logo 1 */
@@ -77,7 +77,7 @@ cursor: pointer;
     position: absolute;
     margin-top: 295px;
     margin-left: 983.94px;
-    transform: matrix(-0.97, 0.26, 0.26, 0.97, 0, 0);
+   
     
     
 }
